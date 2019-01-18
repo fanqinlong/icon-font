@@ -1,0 +1,23 @@
+{
+  "name": "icon-font",
+  "version": "0.0.2",
+  "authors": [
+    "simonfan <98321@163.com>"
+  ],
+  "description": "IconFont",
+  "main":[ 
+	"css/iconfont.css",
+	"fonts/*"
+  ],
+  "keywords": [
+    "iconfont.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
